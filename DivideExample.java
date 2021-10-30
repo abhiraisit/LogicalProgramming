@@ -11,6 +11,7 @@ class DivideExample {
 
         int p = main();
         System.out.println(p);
+
     }
 
     public static int main() {
