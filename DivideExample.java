@@ -10,7 +10,7 @@ class DivideExample {
         }
 
         int p = main();
-
+	System.out.println(p);
 // Just for testing
 
     }
